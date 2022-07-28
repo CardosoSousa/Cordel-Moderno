@@ -60,6 +60,7 @@ section{
 section.normal{
     background-color: white;
     color: black;
+    font-weight: bolder;
 }
 
 section.imagem{
